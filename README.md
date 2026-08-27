@@ -1,1 +1,1 @@
-# GIN-DML
+# GNN-DML
